@@ -3,7 +3,15 @@
   "version": "0.0.0",
   "description": "megamark support for JSTransformers.",
   "keywords": [
-    "jstransformer"
+    "it",
+    "jstransformer",
+    "markdown",
+    "markdown-it",
+    "md",
+    "megamark",
+    "tokenize",
+    "tokens",
+    "transform"
   ],
   "files": [
     "index.js"
