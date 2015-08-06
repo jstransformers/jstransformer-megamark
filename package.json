@@ -1,6 +1,6 @@
 {
   "name": "jstransformer-megamark",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "megamark support for JSTransformers.",
   "keywords": [
     "it",
