@@ -1,17 +1,12 @@
 {
+  "dependencies": {
+    "megamark": "^3.1.0"
+  },
   "name": "jstransformer-megamark",
-  "version": "0.1.0",
-  "description": "megamark support for JSTransformers.",
+  "version": "0.2.0",
+  "description": "Megamark support for JSTransformers.",
   "keywords": [
-    "it",
-    "jstransformer",
-    "markdown",
-    "markdown-it",
-    "md",
-    "megamark",
-    "tokenize",
-    "tokens",
-    "transform"
+    "jstransformer"
   ],
   "files": [
     "index.js"
@@ -23,10 +18,16 @@
     "coverage": "test-jstransformer coverage",
     "test": "test-jstransformer"
   },
-  "repository": "jstransformers/jstransformer-megamark",
-  "author": "JSTransformers Team (https://github.com/orgs/jstransformers/people)",
-  "license": "MIT",
-  "dependencies": {
-    "megamark": "^3.1.0"
-  }
+  "engines": {
+    "node": ">=0.10.36"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jstransformers/jstransformer-foo.git"
+  },
+  "author": {
+    "name": "JSTransformers Team",
+    "url": "http://github.com/orgs/jstransformers/people"
+  },
+  "license": "MIT"
 }
