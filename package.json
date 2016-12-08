@@ -3,7 +3,7 @@
     "megamark": "^3.1.0"
   },
   "name": "jstransformer-megamark",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Megamark support for JSTransformers.",
   "keywords": [
     "jstransformer"
