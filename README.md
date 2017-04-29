@@ -1,5 +1,7 @@
 # jstransformer-megamark
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-megamark.svg)](https://greenkeeper.io/)
+
 [Megamark](https://github.com/bevacqua/megamark) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-megamark/master.svg)](https://travis-ci.org/jstransformers/jstransformer-megamark)
