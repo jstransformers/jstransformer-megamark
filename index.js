@@ -1,6 +1,6 @@
 'use strict'
 
-var megamark = require('megamark')
+const megamark = require('megamark')
 
 exports.name = 'megamark'
 exports.inputFormats = ['md', 'markdown', 'megamark']
