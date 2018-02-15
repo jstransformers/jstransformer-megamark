@@ -15,7 +15,7 @@
 ## API
 
 ```js
-var megamark = require('jstransformer')(require('jstransformer-megamark'));
+var megamark = require('jstransformer')(require('jstransformer-megamark'))
 
 console.log(megamark.render('_Hello_, **world**!').body);
 //=> '<p><em>Hello</em>, <strong>world</strong>!</p>'
